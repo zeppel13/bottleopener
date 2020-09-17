@@ -1,4 +1,4 @@
 # bottleopener
 It opens bottles
 
-![simulation_of_real_thing.png]
+![good image could be here](simulation_of_real_thing.png)
